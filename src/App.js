@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-        try to   Learn React
+       Welcome to Codaisseur
         </a>
       </header>
     </div>
